@@ -1,6 +1,6 @@
 #!/bin/zsh
 
-echo "How many days worth of fake git commmits would you like?"
+echo "How many days worth of fake git commits would you like?"
 
 read days
 
